@@ -1,4 +1,4 @@
 # KAuth
 this is my first Git repository
 <br>
-author: kundan bharti
+author: kundan bharti(backend developer)
